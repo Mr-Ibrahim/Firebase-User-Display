@@ -1,0 +1,40 @@
+.side-image {
+    background-color: #F9FAFF;
+    background-image: url(assets/img/forgot-password.png);
+    background-size: 75vh;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
+.side-images-register-right {
+    background-color: #F5F5F9;
+    /* background-image: url(assets/img/forgot-password.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.side-images-register-left {
+    background-color: #F5F5F9;
+    /* background-image: url(assets/img/forgot-password.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.progress-bar-danger {
+    background-color: #e90f10;
+}
+
+.progress-bar-warning {
+    background-color: #ffad00;
+}
+
+.progress-bar-success {
+    background-color: #02b502;
+}
+
+.superadmin-popup-name-bg-color{
+    color: #000 !important;
+}
